@@ -13,7 +13,10 @@
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | 
 |:---:|:---:|
 
-
+ ### CLONE REPOSITORY
+ ```
+  https://github.com/adityakamath16/DrawingPad.git
+ ```
 
 <p><h3>Features Used: </h3></p>
 ○ Login/signup feature<br>
@@ -22,11 +25,10 @@
 ○ Uses Firebase Realtime Database Users to chat with each other<br>
 ○ Used different open source libraries to create the app<br>
 ○ Notification feature is available when a friend sends messages<br>
-○ This App is still under developement and will be soon completed:-)<br>
 
 
 ### DESCRIPTION
-<p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Feel free to check the app and contribute. Let's make the application better togather.</p>
+<p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Users can search for other users and also notifications will be sent when the users chat with each other. Feel free to check the app and contribute. Let's make the application better togather.</p>
 
 License
  -------
