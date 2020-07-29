@@ -10,8 +10,8 @@
 ### Tools :fire:
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | 
 |:---:|:---:|
-
- ### CLONE REPOSITORY
+<br>
+ ### Clone Repository
  ```
   https://github.com/adityakamath16/DrawingPad.git
  ```
