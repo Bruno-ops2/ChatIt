@@ -25,7 +25,7 @@
 ○ Notification feature is available when a friend sends messages<br>
 
 
-### DESCRIPTION
+### Description
 <p>Chat-It is a Firebase based Android Open-Source app For developers to refer in case they want to integrate Chatting capabilities to their application. Users can search for other users and also notifications will be sent when the users chat with each other. Feel free to check the app and contribute. Let's make the application better together.</p>
 
 License
