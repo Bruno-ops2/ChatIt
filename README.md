@@ -16,7 +16,7 @@
   https://github.com/adityakamath16/DrawingPad.git
  ```
 
-<p><h3>Features Used: </h3></p>
+<p><h3>Features : </h3></p>
 ○ Login/signup feature<br>
 ○ Mordern UI<br>
 ○ Uses Googles way of material design<br>
