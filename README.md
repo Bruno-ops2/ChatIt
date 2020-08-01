@@ -13,7 +13,7 @@
 
  ### Clone Repository
  ```
-  https://github.com/adityakamath16/DrawingPad.git
+  https://github.com/adityakamath16/ChatIt.git
  ```
 
 <p><h3>Features : </h3></p>
