@@ -22,7 +22,7 @@
 ○ Uses Googles way of material design<br>
 ○ Uses Firebase Realtime Database Users to chat with each other<br>
 ○ Used different open source libraries to create the app<br>
-○ Notification feature is available when a friend sends messages<br>
+○ Notification feature is available when a friend sends messages to other users<br>
 
 <p><h3>Requirements : </h3></p>
 Firebase Realtime Database<br>
