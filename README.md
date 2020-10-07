@@ -18,7 +18,7 @@
 
 <p><h3>Features : </h3></p>
 ○ Login/signup feature<br>
-○ Mordern UI<br>
+○ Google material design UI<br>
 ○ Uses Googles way of material design<br>
 ○ Uses Firebase Realtime Database Users to chat with each other<br>
 ○ Used different open source libraries to create the app<br>
